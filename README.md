@@ -3,5 +3,6 @@
 Olá! Bem vindo ao meu livro de receitas teste do bootcamp Santander DIO 2022
 
 - Strogonoff de Frango
-
-  
+- Torta Turbinada de Salsicha
+- Couve Flor Empanado
+- Torta de Maracujá
